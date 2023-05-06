@@ -26,4 +26,5 @@ Todos
 0.0.4. 개발 사이클 protocol :white_check_mark:
 
 
-0.1.0. wireframe for 게시판, 댓글 :white_check_mark:
+0.1.0. wireframe for 게시판, 댓글 :white_check_mark:\
+0.1.1. 게시판 erd :white_check_mark:
