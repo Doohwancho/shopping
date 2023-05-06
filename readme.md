@@ -24,4 +24,4 @@ Todos
 0.0.2. git commit message protocol :white_check_mark:\
 0.0.3. linter for backend :white_check_mark:
 
-
+0.1.0. wireframe for 게시판, 댓글 :white_check_mark:
